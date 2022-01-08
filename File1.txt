@@ -1,1 +1,2 @@
 I am learning git remotes
+I learnt to commit files in git
