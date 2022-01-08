@@ -1,2 +1,3 @@
 I am learning git remotes
 I learnt to commit files in git
+I am now learnin coding in codingal
